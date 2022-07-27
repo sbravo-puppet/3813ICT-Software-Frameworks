@@ -1,6 +1,6 @@
 # 3813ICT Software Frameworks - Workshop 2 - Git Version Control
 
-## myFirstGit
+# myFirstGit
 
 ## Description
 This is a git repository for week 2 lab of 3813ICT Software Frameworks
